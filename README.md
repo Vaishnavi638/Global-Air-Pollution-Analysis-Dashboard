@@ -1,4 +1,4 @@
-# Global-Air-Pollution-Analysis-Dashboard
+# Global Air Pollution Analysis - ( Excel Dashboard )
 
 **Project Overview :**
 
